@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virman S. Silo Jr. - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffffff;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1, h2, p {
+            margin: 0;
+        }
+
+        .header {
+            text-align: center;
+            background-color: #ffffff;
+            color: #dfd2d2;
+            padding: 20px;
+        }
+
+        .header h1 {
+            font-size: 36px;
+        }
+
+        .header h2 {
+            font-size: 24px;
+        }
+
+        .section {
+            margin: 30px 0;
+        }
+
+        .section h2 {
+            font-size: 24px;
+            border-bottom: 2px solid #2f0505;
+            padding-bottom: 10px;
+        }
+
+        .section p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Virman S. Silo Jr.</h1>
+            <h2>Artist</h2>
+        </div>
+
+        <div class="section">
+            <h2>09911052623</h2>
+            <p>Email: virmansilaosilojr@gmail.com</p>
+            <p>LinkedIn: <a href="https://www.facebook.com/virman.ssilojr" target="_blank">LinkedIn Profile</a></p>
+        </div>
+
+        <div class="section">
+            <h2>Education</h2>
+            <p>Bachelor of Science in Information Technology major in Animation</p>
+            <p>Bicol University Polangui</p>
+            <p></p>
+        </div>
+
+        <div class="section">
+            <h2>Work Experience</h2>
+            <p>BUPC-CSC Junior Councilor Creatives Committee 2022-20233</p>
+            <p>BAAF 2022-2023 Creatives Committee Head</p>
+            <p>BUPC-Christams Lighting Creatives Head 2022-2023</p>
+            <p>Feb-Gala Cultual Fest 2022-2023 Creatives Committee Head</p>
+            <p></p>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <p>HTML, CSS, JavaScript</p>
+            <p>Web Development, Frontend Development</p>
+        </div>
+
+        <div class="section">
+            <h2>Experience</h2>
+            <p>Web Developer Intern at ABC Company</p>
+            <p>June 20XX - August 20XX</p>
+            <p>Worked on website development projects, collaborated with the development team, and gained hands-on experience in frontend development.</p>
+        </div>
+    </div>
+</body>
+</html>
